@@ -4,6 +4,7 @@
  * The geographic scope of targets is on Germany.
  * Feel free to contribute to this project.
 
+
 # Coorporate 
   * Handelsregister/Commercial registry (https://handelsregister.de)
       * Despite the strict national and EU regulations regarding data protection, this technique provides a lot of intelligence about a person and their business associates.
@@ -22,18 +23,25 @@
             * The free version provides a beautiful network view and semantic connections between other companies and people. This can be extremely useful, as Handelsregister and OpenRegister do not provide this functionality that easily.
             * I'd prefer this over the raw data from Handelsregister, but there is some information that can only be aquired on Handelsregister.
             * 
-        
-       
-  
 
+        
 # Username
-  * Sherlock
+  * Sherlock (https://github.com/sherlock-project/sherlock)
       * It's generally good to have an IP from the european nations (e.g. DE, AT, NL)
       * Some results can implicate false-positives due to wrong HTTP status codes provided by the targetted services (e.g. HTTP200 instead of HTTP404)
       * Installation via pipx: `pipx install sherlock`
-   
-  *     
+        
+  * Holehe (https://github.com/megadose/holehe)
+      * Checks multiple websites for an existing registration via the password reset functionality.
+      * Can be very noisy.
 
+
+# Data breach (Username, email, password)
+  * Dehashed (https://dehashed.com/)
+  * 0t.rocks (https://search.0t.rocks)
+  * HaveIBeenPwned (https://haveibeenpwned.com/)
+
+    
 # Google / YouTube
   * GHunt (https://github.com/mxrch/GHunt)
       * Aggregate data from all Google services for an account. This includes (not limited to) YouTube, Maps Reviews (A-tier intel), and Google Plus 
@@ -48,3 +56,4 @@
     * Dump meta&comments: `yt-dlp --dump-single-json URL`
     * Installation via AUR repository: `yay -S yt-dlp`
     *  
+
