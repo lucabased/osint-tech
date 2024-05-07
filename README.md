@@ -32,13 +32,18 @@
       * Installation via pipx: `pipx install sherlock`
         
 
-
 # E-mail
   * Holehe (https://github.com/megadose/holehe)
       * Checks multiple websites for an existing registration via the password reset functionality.
       * Can be very noisy.
 
 
+# Phone number
+ * Ignorant (https://github.com/megadose/ignorant)
+     * Checks multiple platforms (Amazon, Instagram, Snapchat) for registrations.
+     * Can also be very noisy.
+  
+       
 # Data breach (Username, email, password)
   * Dehashed (https://dehashed.com/)
   * 0t.rocks (https://search.0t.rocks)
