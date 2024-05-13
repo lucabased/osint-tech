@@ -12,7 +12,7 @@
   * Handelsregister/Commercial registry (https://handelsregister.de)
       * Despite the strict national and EU regulations regarding data protection, this technique provides a lot of intelligence about a person and their business associates.
       * Information includes (not limited to): Full legal name, date of birth (DOB), place of birth, addresses, pen signature, marital status, balance sheets, and historic documents of before mentioned things.
-      * You'll need to know German in order to read those documents, alternative use a PDF translation service (e.g. Google Lens)
+      * You'll need to know German in order to read those documents, alternatively use a PDF translation service (e.g. Google Lens)
       * Associated people could include venture partners and close family.
       * Usage:
          * Be sure to click the "DK" (ger. Dokumentenansicht) button on the results page.
