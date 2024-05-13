@@ -4,8 +4,11 @@
  * The geographic scope of targets is on Germany.
  * Feel free to contribute to this project.
 
+# CTFs
+ * [Sector](https://sector035.n)
+ * https://ctf.michweb.de/confirm
 
-# Coorporate 
+# Corporate 
   * Handelsregister/Commercial registry (https://handelsregister.de)
       * Despite the strict national and EU regulations regarding data protection, this technique provides a lot of intelligence about a person and their business associates.
       * Information includes (not limited to): Full legal name, date of birth (DOB), place of birth, addresses, pen signature, marital status, balance sheets, and historic documents of before mentioned things.
