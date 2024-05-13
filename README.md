@@ -25,7 +25,7 @@
             * This service has indexed over 59 million companies in 15 countries as of early May 2024.
             * The free version provides a beautiful network view and semantic connections between other companies and people. This can be extremely useful, as Handelsregister and OpenRegister do not provide this functionality that easily.
             * I'd prefer this over the raw data from Handelsregister, but there is some information that can only be aquired on Handelsregister.
-            * 
+            * Professional version can be obtained by creating a blog.
 
         
 # Username 
