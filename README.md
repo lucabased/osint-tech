@@ -35,6 +35,7 @@
 # Username 
   * Sherlock (https://github.com/sherlock-project/sherlock)
       * It's generally good to have an IP from the european nations (e.g. DE, AT, NL)
+      * Because Sherlock scrapes the websites, I advise you to use a *residential rotating proxy* service such as IPRoyal or PIAProxy
       * Some results can implicate false-positives due to wrong HTTP status codes provided by the targetted services (e.g. HTTP200 instead of HTTP404)
       * Installation via pipx: `pipx install sherlock`
         
