@@ -27,7 +27,11 @@
             * I'd prefer this over the raw data from Handelsregister, but there is some information that can only be aquired on Handelsregister.
             * Professional version can be obtained by creating a blog.
 
-        
+# Personal Websites
+  * In Germany, there is a law commanding every operator of a website to include an imprint (§5 TMG | https://www.gesetze-im-internet.de/tmg/__5.html)
+  * Some people use a masking service such as Autorenglück.de, which invalidates the imprint for us.
+
+
 # Username 
   * Sherlock (https://github.com/sherlock-project/sherlock)
       * It's generally good to have an IP from the european nations (e.g. DE, AT, NL)
