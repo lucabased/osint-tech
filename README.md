@@ -60,6 +60,8 @@
   * Dehashed (https://dehashed.com/)
   * 0t.rocks (https://search.0t.rocks)
   * HaveIBeenPwned (https://haveibeenpwned.com/)
+  * Snusbase (https://snusbase.com/)
+  * CheckLeaked (https://checkleaked.cc)
 
     
 # Google / YouTube
