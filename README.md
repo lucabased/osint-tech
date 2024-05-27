@@ -8,6 +8,12 @@
  * [Sector](https://sector035.n)
  * https://ctf.michweb.de/confirm
 
+# Visualization / Intel management
+ * Every great investigation is managed and documented carefully. To retrace steps, find loose ends and being able to get a feel for the bigger picture.
+ * Maltego - Community Edition
+ * Diagrams.net
+ * Obsidian Notebook
+
 # Corporate 
   * Handelsregister/Commercial registry (https://handelsregister.de)
       * Despite the strict national and EU regulations regarding data protection, this technique provides a lot of intelligence about a person and their business associates.
