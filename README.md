@@ -61,7 +61,15 @@
   * 0t.rocks (https://search.0t.rocks)
   * HaveIBeenPwned (https://haveibeenpwned.com/)
   * Snusbase (https://snusbase.com/)
+      * My go-to tool for investigating e-mails and usernames.
+      * Costs 7 USD/week
+      * API endpoint with subscription   
   * CheckLeaked (https://checkleaked.cc)
+
+
+# Stealer Logs
+ * StealerLog Telegram Superlist (https://github.com/fastfire/deepdarkCTI/blob/main/telegram_infostealer.md)
+ * Threat actors often archive logs in RAR extensions. This can be dangerous because the RAR protocol contains a few security vulnerabilities leading to RCE. Therefore, it is advised to be only unpacked within a virtual machine that does not contain any sensible information or network access.
 
     
 # Google / YouTube
