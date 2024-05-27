@@ -69,7 +69,8 @@
 
 # Stealer Logs
  * StealerLog Telegram Superlist (https://github.com/fastfire/deepdarkCTI/blob/main/telegram_infostealer.md)
- * Threat actors often archive logs in RAR extensions. This can be dangerous because the RAR protocol contains a few security vulnerabilities leading to RCE. Therefore, it is advised to be only unpacked within a virtual machine that does not contain any sensible information or network access.
+ * Threat actors often archive logs in RAR extensions. This can be dangerous because the RAR protocol contains a few security vulnerabilities leading to RCE. Therefore, it is advised to be only unpacked within a virtual machine that does not contain any sensible information or network access. => Keep a sandbox image at hand :^)
+
 
     
 # Google / YouTube
