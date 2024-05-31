@@ -67,10 +67,16 @@
   * 0t.rocks (https://search.0t.rocks)
   * HaveIBeenPwned (https://haveibeenpwned.com/)
   * Snusbase (https://snusbase.com/)
+      * 16,5B rows (31.05.2024)
       * My go-to tool for investigating e-mails and usernames.
       * Costs 7 USD/week
       * API endpoint with subscription   
   * CheckLeaked (https://checkleaked.cc)
+  * Ghostproject.fr (https://ghostproject.fr/)
+    * 15,5B rows (31.05.2024)
+    * Does not remove data (suspect does can't hide his trail)
+    * 30 USD/month
+    * Might be broken  
 
 
 # Stealer Logs
