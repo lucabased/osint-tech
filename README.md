@@ -12,6 +12,7 @@
  * [Michael Bazzel's OSINT Techniques](https://inteltechniques.com/book1.html)
    
 # Visualization / Intel management
+ * [Collection of visualized attack surfaces](https://github.com/OsintDojo/OSINT/tree/master)
  * Every great investigation is managed and documented carefully. To retrace steps, find loose ends and being able to get a feel for the bigger picture.
  * Maltego - Community Edition
  * Diagrams.net
