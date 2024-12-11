@@ -80,7 +80,11 @@
     * 15,5B rows (31.05.2024)
     * Does not remove data (suspect does can't hide his trail)
     * 30 USD/month
-    * Might be broken  
+    * Might be broken
+  * EuroNJ OSINT Telegram bot (https://t.me/euronjsearch_bot)
+    * Is free
+  * People Research Telegram Bot (https://t.me/aE_researchBot)
+  *  Costs per request
 
 
 # Stealer Logs
